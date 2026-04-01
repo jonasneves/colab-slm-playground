@@ -1,6 +1,8 @@
 # colab-slm-playground
 
-Run Small Language Model (SLM) inference and chat UIs directly inside Google Colab — no Flask, no tunnels. The chat UI bridges JS to Python via `google.colab.kernel.invokeFunction`, so everything runs inside the notebook with no external server.
+Run Small Language Model (SLM) inference and chat UIs directly inside Google Colab — no Flask, no tunnels.
+
+The chat UI bridges JS to Python via `google.colab.kernel.invokeFunction`, so everything runs inside the notebook with no external server.
 
 ## Notebooks
 
